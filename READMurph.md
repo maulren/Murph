@@ -31,3 +31,5 @@ MURPH
 *and don't forget to put lines in between your content or it'll all show up together in an intimidating mass*
 
 ![picture of MURPH, a fluffy black rabbit in profile peeking his head out of a hollow corrugated cardboard cube. His eye is reflecting a glowing red color from the camera flash. He looks up to no good.](murph.jpg)
+
+*this readme is written using basic Markdown elements*
