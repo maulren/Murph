@@ -17,6 +17,7 @@
   </head>
   <body>
     <!--This is a test comment-->
+     <!--note the use of semantic elements as opposed to div, and other stuff we learned earlier-->
     <header>
     </header>
     <nav>
