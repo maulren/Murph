@@ -1,8 +1,12 @@
 # Murph
 A mid-semester review of 5662 through MURPH
+
 **by Me**
+
 Inspired by Murph
+
 Fueled by WRIT 5662 prerecorded lectures and the motivating ASMR of Winter the dog panting next to me
+
 *header test:*
 MURPH
 =====
